@@ -1,0 +1,40 @@
+.sidebar {
+  float: left;
+  width: 20%;
+  height: 100%;
+  margin-right: 0px;
+  border-style: dotted;
+  padding-left: 5px;
+}
+
+img {
+  /* float: right; */
+}
+
+.small {
+  width: 150px;
+}
+
+p {
+  display: block;
+}
+
+.month {
+  border: 5px solid purple;
+  /* float: right; */
+
+}
+
+h1 {
+  /* padding: 20px 10px; */
+  border: solid;
+}
+
+.flex-div {
+  border: 1px solid red;
+  height: 800px;
+}
+
+.month-box {
+  width: 200px;
+}
